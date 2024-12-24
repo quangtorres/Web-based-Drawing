@@ -1,4 +1,4 @@
-Em cần phần hoàn thành gấp web vẽ đồ họa 2D/3D kiến trúc xây dựng mô phỏng các chức năng cơ bản của AutoCAD trên canvas viết bằng ReactJS (với backend là Java Spring Boot và database là PostgreSQL).
+Em cần phần hoàn thành gấp web vẽ đồ họa 2D/3D kiến trúc xây dựng mô phỏng các chức năng cơ bản của AutoCAD trên canvas viết bằng ReactJS (với Backend là Java Spring Boot và database là PostgreSQL).
 
 Deadline: 7h tối thứ 5 ngày 26/12.
 
@@ -19,8 +19,8 @@ Hiện tại web bên bọn em đã viết bằng ReactJS với NodeJS là backe
 Đây là link web hiện tại của bọn em: https://dxf-editor.vercel.app/
 Username: kid97yv, Password: 1
 Đây là link video hướng dẫn cách dùng: https://drive.google.com/file/d/10ZiskWfCY60FJcyKL1Jzw-nbKyFWQcxT/view
-Đây là source code hiện tại của bọn em: DXFEditor-main.zip
-Đây là file PostgreSQL database của bọn em: Autocad.tar
+Đây là source code hiện tại của bọn em: Thư mục DXFEditor
+Đây là file PostgreSQL database của bọn em: db/Autocad.tar
 
 
 Yêu cầu kĩ thuật:
@@ -38,6 +38,7 @@ Yêu cầu chức năng:
 Phần I: 
 Trước hết em cần 1 trang login cơ bản (username và password) để người dùng đăng nhập vào hệ thống. Sau khi đăng nhập cái trang ở dưới sẽ xuất hiện:
 
+![image alt](https://github.com/quangtorres/Web-based-Drawing/blob/bf23318feb436c7387a495b2d7ca0dfd622d138d/Designs/Canvas%201.jpg)
 
 
 
