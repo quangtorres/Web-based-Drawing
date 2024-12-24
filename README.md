@@ -44,14 +44,14 @@ Trước hết em cần 1 trang login cơ bản (username và password) để ng
 
 Bên tay trái là thanh công cụ, còn bên tay phải là bản vẽ ạ.
 
-  Khi bấm vào nút này (Bên tay trái của thanh dropdown với dòng chữ Jefferson Elementary School) thì sẽ hiện lên cửa sổ như trong Drawings window.jpg.
+![image alt](https://github.com/quangtorres/Web-based-Drawing/blob/3299daa33266925b863f59f0cbc2dd1b9ab1f5af/img/drawing-tool-icon.PNG) Khi bấm vào nút này (Bên tay trái của thanh dropdown với dòng chữ Jefferson Elementary School) thì sẽ hiện lên cửa sổ như trong Drawings window.jpg.
 
 Trong Drawings window.jpg:
 -	Khi anh/chị highlight 1 cái drawing, rồi bấm nút Open bên tay phải trên cùng, drawing sẽ được mở ra như thế này:
-
+![image alt](https://github.com/quangtorres/Web-based-Drawing/blob/3299daa33266925b863f59f0cbc2dd1b9ab1f5af/Designs/Canvas.jpg)
  
 
-  Khi bấm vào nút này sẽ Import file DXF/DWG vào bản vẽ. Những element import từ file có thể edit được.
+![image alt](https://github.com/quangtorres/Web-based-Drawing/blob/3299daa33266925b863f59f0cbc2dd1b9ab1f5af/img/import_file.png) Khi bấm vào nút này sẽ Import file DXF/DWG vào bản vẽ. Những element import từ file có thể edit được.
   Khi bấm vào nút này sẽ Export những elements ở bản vẽ ra dưới dạng file DXF/DWG.
   Cái thanh dropdown bên tay trái nó sẽ có option đường thẳng (Lines), hình tròn (Circle), đa giác (polygon). Anh/chị chọn cái nào thì nó sẽ vẽ cái đấy. 
 Nếu bấm vào nút màu xanh lá cây trên cùng phía tay phải ở trong Drawings window.jpg, bản vẽ sẽ được save vào database. Mỗi khi em mở lại web và mở drawing thì sẽ thấy phần đã saved của bản vẽ ạ.
