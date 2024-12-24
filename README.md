@@ -65,6 +65,7 @@ Khi bấm vào nút bên tay trái thanh dropdown “Floor Plan - Architectural�
 window.jpg sẽ hiện lên.
 
  	Khi ấn vào hình này (bên trái của dropdown Walls), cửa sổ Layers window.jpg sẽ hiện lên.
+  Khi ấn vào hình này (bên trái của dropdown Walls), cửa sổ Layers window.jpg sẽ hiện lên.
 
   Khi bấm vào cái bút chì nó sẽ hiện lên cửa sổ như trong Drawing Tools window.jpg.
 
