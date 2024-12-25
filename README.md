@@ -11,6 +11,7 @@ Hiện tại web bên em cần có các chức năng cơ bản:
 7.	Có khả năng export bản vẽ từ canvas ra file PDF, DXF và DWG. 
 8. 	Khi anh select một phần tử, phần tử đó sẽ đổi thành màu đỏ (rgb 255,0,0), và anh có thể ấn nút Delete trên bàn phím để xoá nó.
 9. 	Mỗi lần vẽ sẽ auto save cái phần đó vào database.
+10. Kar năng mở được 3,4 bản vẽ mà ko ảnh hưởng đến hiệu năng.
 
 Hiện tại web bên bọn em đã viết bằng ReactJS với NodeJS là backend. Web hiện tại đã có phần lớn các chức năng bên trên, bọn em đang gặp lỗi sau khi import thì elements toàn render ra hình tròn.
 
