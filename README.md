@@ -10,7 +10,7 @@ Hiện tại web bên em cần có các chức năng cơ bản:
 6.	Có khả năng edit được những element trong bản vẽ mà anh/chị import từ file. Bản vẽ anh import từ file DXF và DWG có thể chỉnh sửa được ạ.
 7.	Có khả năng export bản vẽ từ canvas ra file PDF, DXF và DWG. 
 8. 	Khi anh select một phần tử, phần tử đó sẽ đổi thành màu đỏ (rgb 255,0,0), và anh có thể ấn nút Delete trên bàn phím để xoá nó.
-9. 	Mỗi lần vẽ sẽ auto save vào database.
+9. 	Mỗi lần vẽ sẽ auto save cái phần đó vào database.
 
 Hiện tại web bên bọn em đã viết bằng ReactJS với NodeJS là backend. Web hiện tại đã có phần lớn các chức năng bên trên, bọn em đang gặp lỗi sau khi import thì elements toàn render ra hình tròn.
 
@@ -27,7 +27,8 @@ Yêu cầu kĩ thuật:
 3.	Clean code.
 4.	Tất cả cần phải viết bằng tiếng anh (codes, comments, tài liệu, …).
 5.	Cần responsive cho mọi máy tính với bất kì độ phân giải nào (kể cả 800x600).
-6.	Em cần luôn có access vào codebase và tự deploy 24/7.
+6.	Hiệu năng sẽ không bị ảnh hưởng kể cả có 100 người truy cập vào web của bọn em để vẽ drawing.
+7.	Em cần luôn có access vào codebase và tự deploy 24/7.
 
 
 
