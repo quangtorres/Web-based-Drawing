@@ -36,7 +36,11 @@ Yêu cầu kĩ thuật:
 Yêu cầu chức năng:
 
 Phần I: 
-Trước hết em cần 1 trang login cơ bản (username và password) để người dùng đăng nhập vào hệ thống. Sau khi đăng nhập cái trang ở dưới sẽ xuất hiện:
+Trước hết khi người dùng vừa bắt đầu truy cập vào website, 1 trang login cơ bản (username và password) để người dùng đăng nhập vào hệ thống sẽ xuất hiện:
+
+![image alt](https://github.com/quangtorres/Web-based-Drawing/blob/b446e6de585cbbc158962c97a128c85f2eda0ef4/img/login-page.png)
+
+Sau khi đăng nhập cái trang ở dưới sẽ xuất hiện:
 
 ![image alt](https://github.com/quangtorres/Web-based-Drawing/blob/bf23318feb436c7387a495b2d7ca0dfd622d138d/Designs/Canvas%201.jpg)
 
