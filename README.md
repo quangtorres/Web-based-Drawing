@@ -1,4 +1,4 @@
-Em cần phần hoàn thành gấp web vẽ đồ họa 2D/3D kiến trúc xây dựng mô phỏng các chức năng cơ bản của AutoCAD trên canvas viết bằng ReactJS (với Backend là Java Spring Boot theo format MVC (với Docker và RestAPI nếu được) và Database là PostgreSQL).
+Em cần phần hoàn thành gấp web vẽ đồ họa 2D/3D kiến trúc xây dựng mô phỏng các chức năng cơ bản của AutoCAD trên canvas viết bằng ReactJS (với Backend là Java Spring Boot theo format MVC (với Docker và RestAPI nếu được), hoặc NodeJS, và Database là PostgreSQL).
 
 
 Hiện tại web bên em cần có các chức năng cơ bản:
