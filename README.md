@@ -27,7 +27,7 @@ Yêu cầu kĩ thuật:
 1.	Tốc độ nhanh, hoạt động trơn tru.
 2.	Không lỗi/Ít lỗi nhất có thể (Bên em biết cái này khó có thể lường trước được).
 3.	Clean code.
-4.	Tất cả cần phải viết bằng tiếng anh (codes, comments, tài liệu, …).
+4.	Tất cả cần phải viết bằng tiếng anh (codes, comments, …).
 5.	Cần responsive cho mọi máy tính với bất kì độ phân giải nào (kể cả 800x600).
 6.	Hiệu năng sẽ không bị ảnh hưởng kể cả có 100 người truy cập vào web của bọn em để vẽ drawing.
 7.	Em cần luôn có access vào codebase và tự deploy 24/7.
