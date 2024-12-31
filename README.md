@@ -16,7 +16,7 @@ Hiện tại web bên em cần có các chức năng cơ bản:
 
 Hiện tại web bên bọn em đã viết bằng ReactJS với NodeJS là backend. Web hiện tại đã có phần lớn các chức năng bên trên, bọn em đang gặp lỗi sau khi import thì elements toàn render ra hình tròn.
 
-Đây là link web hiện tại của bọn em: https://dxf-editor.vercel.app/
+Đây là link web hiện tại của bọn em: [https://dxf-editor.vercel.app/](https://dxf-editor-secondknifes-projects.vercel.app/)
 Username: kid97yv, Password: 1
 Đây là link video hướng dẫn cách dùng: https://drive.google.com/file/d/10ZiskWfCY60FJcyKL1Jzw-nbKyFWQcxT/view
 Đây là source code hiện tại của bọn em: Thư mục DXFEditor
