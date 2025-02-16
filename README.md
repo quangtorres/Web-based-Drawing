@@ -30,7 +30,8 @@ Yêu cầu kĩ thuật:
 4.	Tất cả cần phải viết bằng tiếng anh (codes, comments, …).
 5.	Cần responsive cho mọi máy tính với bất kì độ phân giải nào (kể cả 800x600).
 6.	Hiệu năng sẽ không bị ảnh hưởng kể cả có 100 người truy cập vào web của bọn em để vẽ drawing.
-7.	Em cần luôn có access vào codebase và tự deploy 24/7.
+7.	Cần phải hoạt động tốt khi dùng wifi yếu hoặc khi dùng public wifi (ví dụ như wifi ở trường đại học hoặc cấp 3).
+8.	Em cần luôn có access vào codebase và tự deploy 24/7.
 
 
 
