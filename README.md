@@ -75,4 +75,5 @@ window.jpg sẽ hiện lên.
   Khi bấm vào cái bút chì nó sẽ hiện lên cửa sổ như trong Drawing Tools window.jpg.
 
 
+Mời bạn đọc tiếp Tài Liệu Bổ Sung 1
 
